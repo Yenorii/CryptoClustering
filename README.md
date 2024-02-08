@@ -12,7 +12,7 @@ Question: What is the best value for k when using the PCA data?<br>
 Answer: 4<br>
 Question: Does it differ from the best k value found using the original data?<br>
 Answer: No<br>
-###Cluster Cryptocurrencies with K-means Using the PCA Data<br>
+### Cluster Cryptocurrencies with K-means Using the PCA Data<br>
 ![image](https://github.com/Yenorii/CryptoClustering/assets/144069387/007cd640-8a39-4383-9200-fe9091c38dbf)<br>
 ### Visualize and Compare the Results<br>
 ![image](https://github.com/Yenorii/CryptoClustering/assets/144069387/e214fc15-7bc1-44bc-9a28-bb7d17027b33)<br>
